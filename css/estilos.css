@@ -1,6 +1,29 @@
 body
 {
-    color: blueviolet;
+    background-color: black;
+}
+
+h1{
+    color: #d80ed8;
     text-align: center;
-    font-family: "Sans Serif";
+    font-family: arial; 
+}
+
+p{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 25px;
 }
