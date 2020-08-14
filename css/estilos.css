@@ -56,9 +56,8 @@ body
 
 #footer
 {
-    background: #0a1b79;
-    opacity: 0.2;
-    color: white;
+    background: #0a1b792a;
+    color: #0A1B79;
     text-align: center;
     padding: 0.5em;
 }
