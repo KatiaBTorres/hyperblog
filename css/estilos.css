@@ -56,7 +56,7 @@ body
 
 #footer
 {
-    background: #0a1b792a;
+    background: hsla(231, 85%, 26%, 0.200);
     color: #0A1B79;
     text-align: center;
     padding: 0.5em;
