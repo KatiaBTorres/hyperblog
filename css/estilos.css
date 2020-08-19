@@ -54,6 +54,12 @@ body
     font-family: 'Poppins', sans-serif;
 }
 
+img
+{
+    display:block;
+    margin:auto;
+}
+
 #footer
 {
     background: hsla(231, 85%, 26%, 0.200);
